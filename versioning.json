@@ -1,0 +1,27 @@
+{
+    "buildTime": "2024-03-10T13:30:36.422Z",
+    "sources": [
+        {
+            "id": "3asq",
+            "name": "3asq",
+            "author": "Gabe",
+            "desc": "Extension that pulls manga from 3asq 3asq.",
+            "website": "http://github.com/GabrielCWT",
+            "contentRating": "EVERYONE",
+            "version": "1.0.0",
+            "icon": "icon.ico",
+            "tags": [
+                {
+                    "text": "English",
+                    "type": "info"
+                }
+            ],
+            "websiteBaseURL": "https://3asq.org/",
+            "intents": 21
+        }
+    ],
+    "builtWith": {
+        "toolchain": "0.8.0-alpha.47",
+        "types": "0.8.0-alpha.47"
+    }
+}
